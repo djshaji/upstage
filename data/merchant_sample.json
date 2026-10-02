@@ -1,0 +1,252 @@
+{
+  "play_id": "merchant_of_venice",
+  "title": "The Merchant of Venice",
+  "genre": "comedy",
+  "characters": {
+    "duke": {
+      "name": "Duke of Venice",
+      "rank": "Head of State / Chief Magistrate"
+    },
+    "antonio": {
+      "name": "Antonio",
+      "rank": "Merchant of Venice"
+    },
+    "bassanio": {
+      "name": "Bassanio",
+      "rank": "Venetian Gentleman / Suitor"
+    },
+    "shylock": {
+      "name": "Shylock",
+      "rank": "Venetian Moneylender"
+    },
+    "gratiano": {
+      "name": "Gratiano",
+      "rank": "Friend to Antonio and Bassanio"
+    },
+    "portia": {
+      "name": "Portia / Doctor Balthazar",
+      "rank": "Heiress of Belmont disguised as Doctor of Laws"
+    },
+    "nerissa": {
+      "name": "Nerissa / Clerk",
+      "rank": "Waiting-gentlewoman disguised as Lawyer's Clerk"
+    }
+  },
+  "stage_events": [
+    {
+      "line_number": 1,
+      "event_type": "ENTER",
+      "characters": [
+        "duke",
+        "antonio",
+        "bassanio",
+        "gratiano"
+      ],
+      "description": "Enter the Duke, the Magnificoes, Antonio, Bassanio, Gratiano, Salerio, and others."
+    },
+    {
+      "line_number": 16,
+      "event_type": "ENTER",
+      "characters": [
+        "shylock"
+      ],
+      "description": "Enter Shylock."
+    },
+    {
+      "line_number": 118,
+      "event_type": "ENTER",
+      "characters": [
+        "nerissa"
+      ],
+      "description": "Enter Nerissa, dressed like a lawyer's clerk."
+    },
+    {
+      "line_number": 166,
+      "event_type": "ENTER",
+      "characters": [
+        "portia"
+      ],
+      "description": "Enter Portia, dressed like a doctor of laws."
+    },
+    {
+      "line_number": 400,
+      "event_type": "EXIT",
+      "characters": [
+        "shylock"
+      ],
+      "description": "Exit Shylock."
+    },
+    {
+      "line_number": 450,
+      "event_type": "EXIT",
+      "characters": [
+        "duke",
+        "antonio",
+        "bassanio",
+        "gratiano",
+        "portia",
+        "nerissa"
+      ],
+      "description": "Exeunt all."
+    }
+  ],
+  "scenes": [
+    {
+      "act": 4,
+      "scene": 1,
+      "setting": "Venice. A court of justice.",
+      "turns": [
+        {
+          "turn_id": "MV_4_1_t1",
+          "act": 4,
+          "scene": 1,
+          "line_start": 184,
+          "line_end": 205,
+          "speaker_id": "portia",
+          "text": "The quality of mercy is not strain'd, It droppeth as the gentle rain from heaven Upon the place beneath: it is twice blest; It blesseth him that gives and him that takes: 'Tis mightiest in the mightiest: it becomes The throned monarch better than his crown; His sceptre shows the force of temporal power, The attribute to awe and majesty, Wherein doth sit the dread and fear of kings; But mercy is above this sceptred sway; It is enthroned in the hearts of kings, It is an attribute to God himself; And earthly power doth then show likest God's When mercy seasons justice.",
+          "meter_type": "blank_verse",
+          "speech_type": "monologue",
+          "actantial_intent": "riddle_paradox",
+          "addressee_id": "shylock"
+        },
+        {
+          "turn_id": "MV_4_1_t2",
+          "act": 4,
+          "scene": 1,
+          "line_start": 206,
+          "line_end": 207,
+          "speaker_id": "shylock",
+          "text": "My deeds upon my head! I crave the law, The penalty and forfeit of my bond.",
+          "meter_type": "blank_verse",
+          "speech_type": "dialogue",
+          "addressee_id": "portia"
+        },
+        {
+          "turn_id": "MV_4_1_t3",
+          "act": 4,
+          "scene": 1,
+          "line_start": 208,
+          "line_end": 209,
+          "speaker_id": "portia",
+          "text": "Is he not able to discharge the money?",
+          "meter_type": "blank_verse",
+          "speech_type": "dialogue",
+          "actantial_intent": "philosophical_inquiry",
+          "addressee_id": "bassanio"
+        },
+        {
+          "turn_id": "MV_4_1_t4",
+          "act": 4,
+          "scene": 1,
+          "line_start": 210,
+          "line_end": 217,
+          "speaker_id": "bassanio",
+          "text": "Yes, here I tender it for him in the court; Yea, twice the sum: if that will not suffice, I will be bound to pay it ten times o'er, On forfeit of my hands, my head, my heart.",
+          "meter_type": "blank_verse",
+          "speech_type": "dialogue",
+          "addressee_id": "portia"
+        },
+        {
+          "turn_id": "MV_4_1_t5",
+          "act": 4,
+          "scene": 1,
+          "line_start": 218,
+          "line_end": 223,
+          "speaker_id": "portia",
+          "text": "It must not be; there is no power in Venice Can alter a decree established: 'Twill be recorded for a precedent, And many an error by the same example Will rush into the state: it cannot be.",
+          "meter_type": "blank_verse",
+          "speech_type": "dialogue",
+          "actantial_intent": "admonition",
+          "addressee_id": "bassanio"
+        },
+        {
+          "turn_id": "MV_4_1_t6",
+          "act": 4,
+          "scene": 1,
+          "line_start": 224,
+          "line_end": 225,
+          "speaker_id": "shylock",
+          "text": "A Daniel come to judgment! yea, a Daniel! O wise young judge, how I do honour thee!",
+          "meter_type": "blank_verse",
+          "speech_type": "dialogue",
+          "addressee_id": "portia"
+        },
+        {
+          "turn_id": "MV_4_1_t7",
+          "act": 4,
+          "scene": 1,
+          "line_start": 226,
+          "line_end": 230,
+          "speaker_id": "portia",
+          "text": "Shylock, there's thrice thy money offer'd thee.",
+          "meter_type": "blank_verse",
+          "speech_type": "dialogue",
+          "actantial_intent": "admonition",
+          "addressee_id": "shylock"
+        },
+        {
+          "turn_id": "MV_4_1_t8",
+          "act": 4,
+          "scene": 1,
+          "line_start": 231,
+          "line_end": 234,
+          "speaker_id": "shylock",
+          "text": "An oath, an oath, I have an oath in heaven: Shall I lay perjury upon my soul? No, not for Venice.",
+          "meter_type": "blank_verse",
+          "speech_type": "dialogue",
+          "addressee_id": "portia"
+        },
+        {
+          "turn_id": "MV_4_1_t9",
+          "act": 4,
+          "scene": 1,
+          "line_start": 300,
+          "line_end": 312,
+          "speaker_id": "portia",
+          "text": "Tarry a little; there is something else. This bond doth give thee here no jot of blood; The words expressly are 'a pound of flesh:' Take then thy bond, take thou thy pound of flesh; But, in the cutting it, if thou dost shed One drop of Christian blood, thy lands and goods Are, by the laws of Venice, confiscate Unto the state of Venice.",
+          "meter_type": "blank_verse",
+          "speech_type": "dialogue",
+          "actantial_intent": "evasion_self_preservation",
+          "addressee_id": "shylock"
+        },
+        {
+          "turn_id": "MV_4_1_t10",
+          "act": 4,
+          "scene": 1,
+          "line_start": 313,
+          "line_end": 315,
+          "speaker_id": "gratiano",
+          "text": "O upright judge! Mark, Jew: O learned judge!",
+          "meter_type": "blank_verse",
+          "speech_type": "dialogue",
+          "addressee_id": "shylock"
+        },
+        {
+          "turn_id": "MV_4_1_t11",
+          "act": 4,
+          "scene": 1,
+          "line_start": 415,
+          "line_end": 425,
+          "speaker_id": "portia",
+          "text": "He is well paid that is well satisfied; And I, delivering you, am satisfied, And therein do account myself well paid: My mind was never yet more mercenary. I pray you, know me when we meet again: I wish you well, and so I take my leave. ... And, for your love, I'll take this ring from you.",
+          "meter_type": "blank_verse",
+          "speech_type": "dialogue",
+          "actantial_intent": "comic_deflection",
+          "addressee_id": "bassanio"
+        },
+        {
+          "turn_id": "MV_4_1_t12",
+          "act": 4,
+          "scene": 1,
+          "line_start": 426,
+          "line_end": 428,
+          "speaker_id": "bassanio",
+          "text": "This ring, good sir, alas, it is a trifle! I will not shame myself to give you this.",
+          "meter_type": "blank_verse",
+          "speech_type": "dialogue",
+          "addressee_id": "portia"
+        }
+      ]
+    }
+  ]
+}

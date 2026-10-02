@@ -1,0 +1,1770 @@
+{
+  "corpus_name": "Shakespeare DraCor 37 Plays Canon",
+  "plays_count": 37,
+  "plays": [
+    {
+      "play_id": "the-two-gentlemen-of-verona",
+      "dracor_id": "shake-the-two-gentlemen-of-verona",
+      "title": "The Two Gentlemen of Verona",
+      "genre": "Comedy",
+      "written_year": 1591,
+      "first_printed": "1623 (F1)",
+      "num_acts": 5,
+      "num_scenes": 20,
+      "num_speakers": 17,
+      "word_count": 17129,
+      "network_nodes": 17,
+      "network_edges": 45,
+      "network_density": 0.331,
+      "clustering_coeff": 0.589,
+      "key_characters": [
+        {
+          "canonical_name": "Valentine",
+          "gender": "M",
+          "social_rank": "Gentleman of Verona",
+          "degree_centrality": 0.48
+        },
+        {
+          "canonical_name": "Proteus",
+          "gender": "M",
+          "social_rank": "Fickle Gentleman of Verona",
+          "degree_centrality": 0.55
+        },
+        {
+          "canonical_name": "Silvia",
+          "gender": "F",
+          "social_rank": "Beloved of Valentine",
+          "degree_centrality": 0.33
+        },
+        {
+          "canonical_name": "Julia",
+          "gender": "F",
+          "social_rank": "Gentlewoman disguised as Sebastian",
+          "degree_centrality": 0.46
+        },
+        {
+          "canonical_name": "Launce",
+          "gender": "M",
+          "social_rank": "Clownish Servant with Dog Crab",
+          "degree_centrality": 0.28
+        }
+      ]
+    },
+    {
+      "play_id": "1-henry-vi",
+      "dracor_id": "shake-1-henry-vi",
+      "title": "1 Henry VI",
+      "genre": "History",
+      "written_year": 1591,
+      "first_printed": "1623 (F1)",
+      "num_acts": 5,
+      "num_scenes": 27,
+      "num_speakers": 39,
+      "word_count": 21507,
+      "network_nodes": 39,
+      "network_edges": 118,
+      "network_density": 0.159,
+      "clustering_coeff": 0.456,
+      "key_characters": [
+        {
+          "canonical_name": "Lord Talbot",
+          "gender": "M",
+          "social_rank": "Terror of the French / English Champion",
+          "degree_centrality": 0.51
+        },
+        {
+          "canonical_name": "Joan of Arc (Pucelle)",
+          "gender": "F",
+          "social_rank": "French Warrior Maid & Sorceress",
+          "degree_centrality": 0.42
+        },
+        {
+          "canonical_name": "King Henry VI",
+          "gender": "M",
+          "social_rank": "Youthful Pious Monarch",
+          "degree_centrality": 0.3
+        },
+        {
+          "canonical_name": "Duke of Gloucester",
+          "gender": "M",
+          "social_rank": "Lord Protector of England",
+          "degree_centrality": 0.37
+        }
+      ]
+    },
+    {
+      "play_id": "2-henry-vi",
+      "dracor_id": "shake-2-henry-vi",
+      "title": "2 Henry VI",
+      "genre": "History",
+      "written_year": 1591,
+      "first_printed": "1594 (Q1)",
+      "num_acts": 5,
+      "num_scenes": 24,
+      "num_speakers": 59,
+      "word_count": 25441,
+      "network_nodes": 59,
+      "network_edges": 185,
+      "network_density": 0.108,
+      "clustering_coeff": 0.388,
+      "key_characters": [
+        {
+          "canonical_name": "King Henry VI",
+          "gender": "M",
+          "social_rank": "Pious Frail Monarch",
+          "degree_centrality": 0.42
+        },
+        {
+          "canonical_name": "Queen Margaret",
+          "gender": "F",
+          "social_rank": "Fierce Lancastrian Queen",
+          "degree_centrality": 0.39
+        },
+        {
+          "canonical_name": "Richard, Duke of York",
+          "gender": "M",
+          "social_rank": "Father of the White Rose",
+          "degree_centrality": 0.48
+        },
+        {
+          "canonical_name": "Jack Cade",
+          "gender": "M",
+          "social_rank": "Plebeian Rebel Leader",
+          "degree_centrality": 0.36
+        },
+        {
+          "canonical_name": "Duke of Suffolk",
+          "gender": "M",
+          "social_rank": "Ambitious Magnate & Paramour",
+          "degree_centrality": 0.45
+        }
+      ]
+    },
+    {
+      "play_id": "3-henry-vi",
+      "dracor_id": "shake-3-henry-vi",
+      "title": "3 Henry VI",
+      "genre": "History",
+      "written_year": 1591,
+      "first_printed": "1595 (O1)",
+      "num_acts": 5,
+      "num_scenes": 28,
+      "num_speakers": 43,
+      "word_count": 24191,
+      "network_nodes": 43,
+      "network_edges": 134,
+      "network_density": 0.148,
+      "clustering_coeff": 0.421,
+      "key_characters": [
+        {
+          "canonical_name": "Richard, Duke of Gloucester (Richard III)",
+          "gender": "M",
+          "social_rank": "Emergent Machiavel",
+          "degree_centrality": 0.54
+        },
+        {
+          "canonical_name": "King Henry VI",
+          "gender": "M",
+          "social_rank": "Martyred Saintly King",
+          "degree_centrality": 0.47
+        },
+        {
+          "canonical_name": "Queen Margaret",
+          "gender": "F",
+          "social_rank": "Amazonian Fury",
+          "degree_centrality": 0.44
+        },
+        {
+          "canonical_name": "Earl of Warwick",
+          "gender": "M",
+          "social_rank": "The Kingmaker",
+          "degree_centrality": 0.52
+        },
+        {
+          "canonical_name": "King Edward IV",
+          "gender": "M",
+          "social_rank": "Yorkist Monarch",
+          "degree_centrality": 0.55
+        }
+      ]
+    },
+    {
+      "play_id": "the-taming-of-the-shrew",
+      "dracor_id": "shake-the-taming-of-the-shrew",
+      "title": "The Taming of the Shrew",
+      "genre": "Comedy",
+      "written_year": 1592,
+      "first_printed": "1623 (F1)",
+      "num_acts": 5,
+      "num_scenes": 14,
+      "num_speakers": 27,
+      "word_count": 20488,
+      "network_nodes": 27,
+      "network_edges": 89,
+      "network_density": 0.254,
+      "clustering_coeff": 0.548,
+      "key_characters": [
+        {
+          "canonical_name": "Petruchio",
+          "gender": "M",
+          "social_rank": "Gentleman of Verona / Tamer",
+          "degree_centrality": 0.52
+        },
+        {
+          "canonical_name": "Katherina Minola",
+          "gender": "F",
+          "social_rank": "The Shrew / Gentlewoman",
+          "degree_centrality": 0.39
+        },
+        {
+          "canonical_name": "Baptista Minola",
+          "gender": "M",
+          "social_rank": "Rich Citizen of Padua",
+          "degree_centrality": 0.35
+        },
+        {
+          "canonical_name": "Lucentio",
+          "gender": "M",
+          "social_rank": "Young Suitor in disguise",
+          "degree_centrality": 0.32
+        },
+        {
+          "canonical_name": "Tranio",
+          "gender": "M",
+          "social_rank": "Servant disguised as Master",
+          "degree_centrality": 0.41
+        }
+      ]
+    },
+    {
+      "play_id": "titus-andronicus",
+      "dracor_id": "shake-titus-andronicus",
+      "title": "Titus Andronicus",
+      "genre": "Tragedy",
+      "written_year": 1592,
+      "first_printed": "1594 (Q1)",
+      "num_acts": 5,
+      "num_scenes": 14,
+      "num_speakers": 28,
+      "word_count": 20457,
+      "network_nodes": 28,
+      "network_edges": 96,
+      "network_density": 0.254,
+      "clustering_coeff": 0.538,
+      "key_characters": [
+        {
+          "canonical_name": "Titus Andronicus",
+          "gender": "M",
+          "social_rank": "Roman General / Revenger",
+          "degree_centrality": 0.59
+        },
+        {
+          "canonical_name": "Tamora",
+          "gender": "F",
+          "social_rank": "Queen of the Goths / Empress",
+          "degree_centrality": 0.41
+        },
+        {
+          "canonical_name": "Aaron the Moor",
+          "gender": "M",
+          "social_rank": "Sadistic Villain & Paramour",
+          "degree_centrality": 0.46
+        },
+        {
+          "canonical_name": "Marcus Andronicus",
+          "gender": "M",
+          "social_rank": "Tribune of Rome & Brother",
+          "degree_centrality": 0.43
+        },
+        {
+          "canonical_name": "Lavinia",
+          "gender": "F",
+          "social_rank": "Mutilated Roman Maiden",
+          "degree_centrality": 0.26
+        }
+      ]
+    },
+    {
+      "play_id": "richard-iii",
+      "dracor_id": "shake-richard-iii",
+      "title": "Richard III",
+      "genre": "History",
+      "written_year": 1593,
+      "first_printed": "1597 (Q1)",
+      "num_acts": 5,
+      "num_scenes": 25,
+      "num_speakers": 49,
+      "word_count": 29278,
+      "network_nodes": 49,
+      "network_edges": 158,
+      "network_density": 0.134,
+      "clustering_coeff": 0.419,
+      "key_characters": [
+        {
+          "canonical_name": "Richard, Duke of Gloucester (King Richard III)",
+          "gender": "M",
+          "social_rank": "Machiavellian Usurper",
+          "degree_centrality": 0.81
+        },
+        {
+          "canonical_name": "Duke of Buckingham",
+          "gender": "M",
+          "social_rank": "Chief Co-conspirator",
+          "degree_centrality": 0.52
+        },
+        {
+          "canonical_name": "Queen Elizabeth",
+          "gender": "F",
+          "social_rank": "Widowed Consort of Edward IV",
+          "degree_centrality": 0.46
+        },
+        {
+          "canonical_name": "Queen Margaret",
+          "gender": "F",
+          "social_rank": "Choric Lancastrian Prophetess",
+          "degree_centrality": 0.31
+        },
+        {
+          "canonical_name": "Lady Anne",
+          "gender": "F",
+          "social_rank": "Widowed Victim & Consort",
+          "degree_centrality": 0.28
+        }
+      ]
+    },
+    {
+      "play_id": "the-comedy-of-errors",
+      "dracor_id": "shake-the-comedy-of-errors",
+      "title": "The Comedy of Errors",
+      "genre": "Comedy",
+      "written_year": 1594,
+      "first_printed": "1623 (F1)",
+      "num_acts": 5,
+      "num_scenes": 11,
+      "num_speakers": 17,
+      "word_count": 14701,
+      "network_nodes": 17,
+      "network_edges": 48,
+      "network_density": 0.353,
+      "clustering_coeff": 0.612,
+      "key_characters": [
+        {
+          "canonical_name": "Antipholus of Syracuse",
+          "gender": "M",
+          "social_rank": "Twin Gentleman",
+          "degree_centrality": 0.42
+        },
+        {
+          "canonical_name": "Antipholus of Ephesus",
+          "gender": "M",
+          "social_rank": "Twin Gentleman",
+          "degree_centrality": 0.38
+        },
+        {
+          "canonical_name": "Dromio of Syracuse",
+          "gender": "M",
+          "social_rank": "Twin Servant / Comic",
+          "degree_centrality": 0.44
+        },
+        {
+          "canonical_name": "Dromio of Ephesus",
+          "gender": "M",
+          "social_rank": "Twin Servant / Comic",
+          "degree_centrality": 0.35
+        },
+        {
+          "canonical_name": "Adriana",
+          "gender": "F",
+          "social_rank": "Wife to Antipholus of Ephesus",
+          "degree_centrality": 0.36
+        }
+      ]
+    },
+    {
+      "play_id": "love-s-labour-s-lost",
+      "dracor_id": "shake-love-s-labour-s-lost",
+      "title": "Love's Labour's Lost",
+      "genre": "Comedy",
+      "written_year": 1595,
+      "first_printed": "1598 (Q1)",
+      "num_acts": 5,
+      "num_scenes": 9,
+      "num_speakers": 19,
+      "word_count": 21455,
+      "network_nodes": 19,
+      "network_edges": 72,
+      "network_density": 0.421,
+      "clustering_coeff": 0.672,
+      "key_characters": [
+        {
+          "canonical_name": "King of Navarre",
+          "gender": "M",
+          "social_rank": "Sovereign Monarch",
+          "degree_centrality": 0.45
+        },
+        {
+          "canonical_name": "Berowne (Biron)",
+          "gender": "M",
+          "social_rank": "Witty Lord Attendant",
+          "degree_centrality": 0.58
+        },
+        {
+          "canonical_name": "Princess of France",
+          "gender": "F",
+          "social_rank": "Royal Diplomat",
+          "degree_centrality": 0.51
+        },
+        {
+          "canonical_name": "Rosaline",
+          "gender": "F",
+          "social_rank": "Lady attending the Princess",
+          "degree_centrality": 0.41
+        },
+        {
+          "canonical_name": "Don Adriano de Armado",
+          "gender": "M",
+          "social_rank": "Fantastical Spaniard",
+          "degree_centrality": 0.31
+        }
+      ]
+    },
+    {
+      "play_id": "a-midsummer-night-s-dream",
+      "dracor_id": "shake-a-midsummer-night-s-dream",
+      "title": "A Midsummer Night's Dream",
+      "genre": "Comedy",
+      "written_year": 1595,
+      "first_printed": "1600 (Q1)",
+      "num_acts": 5,
+      "num_scenes": 9,
+      "num_speakers": 21,
+      "word_count": 16177,
+      "network_nodes": 21,
+      "network_edges": 58,
+      "network_density": 0.276,
+      "clustering_coeff": 0.512,
+      "key_characters": [
+        {
+          "canonical_name": "Theseus",
+          "gender": "M",
+          "social_rank": "Duke of Athens",
+          "degree_centrality": 0.32
+        },
+        {
+          "canonical_name": "Oberon",
+          "gender": "M",
+          "social_rank": "King of the Fairies",
+          "degree_centrality": 0.39
+        },
+        {
+          "canonical_name": "Titania",
+          "gender": "F",
+          "social_rank": "Queen of the Fairies",
+          "degree_centrality": 0.29
+        },
+        {
+          "canonical_name": "Puck (Robin Goodfellow)",
+          "gender": "M",
+          "social_rank": "Mischievous Fairy Spirit",
+          "degree_centrality": 0.34
+        },
+        {
+          "canonical_name": "Nick Bottom",
+          "gender": "M",
+          "social_rank": "Weaver / Mechanical / Pyramus",
+          "degree_centrality": 0.38
+        },
+        {
+          "canonical_name": "Helena",
+          "gender": "F",
+          "social_rank": "Lover in pursuit of Demetrius",
+          "degree_centrality": 0.3
+        }
+      ]
+    },
+    {
+      "play_id": "richard-ii",
+      "dracor_id": "shake-richard-ii",
+      "title": "Richard II",
+      "genre": "History",
+      "written_year": 1595,
+      "first_printed": "1597 (Q1)",
+      "num_acts": 5,
+      "num_scenes": 19,
+      "num_speakers": 34,
+      "word_count": 22138,
+      "network_nodes": 34,
+      "network_edges": 105,
+      "network_density": 0.187,
+      "clustering_coeff": 0.463,
+      "key_characters": [
+        {
+          "canonical_name": "King Richard II",
+          "gender": "M",
+          "social_rank": "Tragic Anointed Monarch",
+          "degree_centrality": 0.58
+        },
+        {
+          "canonical_name": "Henry Bolingbroke (Henry IV)",
+          "gender": "M",
+          "social_rank": "Usurping Duke of Hereford",
+          "degree_centrality": 0.55
+        },
+        {
+          "canonical_name": "Duke of York",
+          "gender": "M",
+          "social_rank": "Uncle to the King / Reluctant Regent",
+          "degree_centrality": 0.44
+        },
+        {
+          "canonical_name": "John of Gaunt",
+          "gender": "M",
+          "social_rank": "Duke of Lancaster / 'Sceptred Isle'",
+          "degree_centrality": 0.26
+        }
+      ]
+    },
+    {
+      "play_id": "romeo-and-juliet",
+      "dracor_id": "shake-romeo-and-juliet",
+      "title": "Romeo and Juliet",
+      "genre": "Tragedy",
+      "written_year": 1595,
+      "first_printed": "1597 (Q1)",
+      "num_acts": 5,
+      "num_scenes": 24,
+      "num_speakers": 35,
+      "word_count": 24545,
+      "network_nodes": 35,
+      "network_edges": 118,
+      "network_density": 0.198,
+      "clustering_coeff": 0.495,
+      "key_characters": [
+        {
+          "canonical_name": "Romeo Montague",
+          "gender": "M",
+          "social_rank": "Star-Crossed Lover",
+          "degree_centrality": 0.56
+        },
+        {
+          "canonical_name": "Juliet Capulet",
+          "gender": "F",
+          "social_rank": "Tragic Heroine",
+          "degree_centrality": 0.49
+        },
+        {
+          "canonical_name": "Mercutio",
+          "gender": "M",
+          "social_rank": "Kinsman to Prince / 'Queen Mab'",
+          "degree_centrality": 0.36
+        },
+        {
+          "canonical_name": "Friar Laurence",
+          "gender": "M",
+          "social_rank": "Franciscan Confessor & Herbalist",
+          "degree_centrality": 0.35
+        },
+        {
+          "canonical_name": "Nurse",
+          "gender": "F",
+          "social_rank": "Verbose Nurse to Juliet",
+          "degree_centrality": 0.42
+        }
+      ]
+    },
+    {
+      "play_id": "the-merchant-of-venice",
+      "dracor_id": "shake-the-merchant-of-venice",
+      "title": "The Merchant of Venice",
+      "genre": "Comedy",
+      "written_year": 1596,
+      "first_printed": "1600 (Q1)",
+      "num_acts": 5,
+      "num_scenes": 20,
+      "num_speakers": 20,
+      "word_count": 21291,
+      "network_nodes": 20,
+      "network_edges": 62,
+      "network_density": 0.326,
+      "clustering_coeff": 0.584,
+      "key_characters": [
+        {
+          "canonical_name": "Portia / Doctor Balthazar",
+          "gender": "F",
+          "social_rank": "Heiress of Belmont & Advocate",
+          "degree_centrality": 0.52
+        },
+        {
+          "canonical_name": "Shylock",
+          "gender": "M",
+          "social_rank": "Venetian Moneylender",
+          "degree_centrality": 0.44
+        },
+        {
+          "canonical_name": "Antonio",
+          "gender": "M",
+          "social_rank": "Merchant of Venice",
+          "degree_centrality": 0.38
+        },
+        {
+          "canonical_name": "Bassanio",
+          "gender": "M",
+          "social_rank": "Venetian Nobleman / Suitor",
+          "degree_centrality": 0.46
+        },
+        {
+          "canonical_name": "Gratiano",
+          "gender": "M",
+          "social_rank": "Friend to Antonio and Bassanio",
+          "degree_centrality": 0.35
+        }
+      ]
+    },
+    {
+      "play_id": "king-john",
+      "dracor_id": "shake-king-john",
+      "title": "King John",
+      "genre": "History",
+      "written_year": 1596,
+      "first_printed": "1623 (F1)",
+      "num_acts": 5,
+      "num_scenes": 16,
+      "num_speakers": 25,
+      "word_count": 20772,
+      "network_nodes": 25,
+      "network_edges": 84,
+      "network_density": 0.28,
+      "clustering_coeff": 0.541,
+      "key_characters": [
+        {
+          "canonical_name": "King John",
+          "gender": "M",
+          "social_rank": "King of England",
+          "degree_centrality": 0.56
+        },
+        {
+          "canonical_name": "Philip the Bastard (Faulconbridge)",
+          "gender": "M",
+          "social_rank": "Illegitimate Hero / Patriot",
+          "degree_centrality": 0.59
+        },
+        {
+          "canonical_name": "Constance",
+          "gender": "F",
+          "social_rank": "Mother to Arthur / Tragic Mourner",
+          "degree_centrality": 0.29
+        },
+        {
+          "canonical_name": "Hubert de Burgh",
+          "gender": "M",
+          "social_rank": "Chamberlain / Refuser of Murder",
+          "degree_centrality": 0.32
+        },
+        {
+          "canonical_name": "Cardinal Pandulph",
+          "gender": "M",
+          "social_rank": "Papal Legate",
+          "degree_centrality": 0.24
+        }
+      ]
+    },
+    {
+      "play_id": "the-merry-wives-of-windsor",
+      "dracor_id": "shake-the-merry-wives-of-windsor",
+      "title": "The Merry Wives of Windsor",
+      "genre": "Comedy",
+      "written_year": 1597,
+      "first_printed": "1602 (Q1)",
+      "num_acts": 5,
+      "num_scenes": 23,
+      "num_speakers": 22,
+      "word_count": 21845,
+      "network_nodes": 22,
+      "network_edges": 78,
+      "network_density": 0.338,
+      "clustering_coeff": 0.573,
+      "key_characters": [
+        {
+          "canonical_name": "Sir John Falstaff",
+          "gender": "M",
+          "social_rank": "Fat Knight / Hedonist Suitor",
+          "degree_centrality": 0.58
+        },
+        {
+          "canonical_name": "Mistress Ford",
+          "gender": "F",
+          "social_rank": "Merry Citizen Wife",
+          "degree_centrality": 0.42
+        },
+        {
+          "canonical_name": "Mistress Page",
+          "gender": "F",
+          "social_rank": "Merry Citizen Wife",
+          "degree_centrality": 0.41
+        },
+        {
+          "canonical_name": "Master Ford (Brook)",
+          "gender": "M",
+          "social_rank": "Jealous Husband",
+          "degree_centrality": 0.44
+        },
+        {
+          "canonical_name": "Sir Hugh Evans",
+          "gender": "M",
+          "social_rank": "Welsh Parson",
+          "degree_centrality": 0.39
+        }
+      ]
+    },
+    {
+      "play_id": "1-henry-iv",
+      "dracor_id": "shake-1-henry-iv",
+      "title": "1 Henry IV",
+      "genre": "History",
+      "written_year": 1597,
+      "first_printed": "1598 (Q1)",
+      "num_acts": 5,
+      "num_scenes": 19,
+      "num_speakers": 27,
+      "word_count": 24545,
+      "network_nodes": 27,
+      "network_edges": 93,
+      "network_density": 0.265,
+      "clustering_coeff": 0.519,
+      "key_characters": [
+        {
+          "canonical_name": "Sir John Falstaff",
+          "gender": "M",
+          "social_rank": "Corrupt Knight / Comic Lord of Misrule",
+          "degree_centrality": 0.57
+        },
+        {
+          "canonical_name": "Prince Hal (Harry)",
+          "gender": "M",
+          "social_rank": "Prince of Wales / Future Victor",
+          "degree_centrality": 0.63
+        },
+        {
+          "canonical_name": "Hotspur (Henry Percy)",
+          "gender": "M",
+          "social_rank": "Impetuous Rebel Champion",
+          "degree_centrality": 0.46
+        },
+        {
+          "canonical_name": "King Henry IV",
+          "gender": "M",
+          "social_rank": "Sovereign Monarch",
+          "degree_centrality": 0.38
+        }
+      ]
+    },
+    {
+      "play_id": "much-ado-about-nothing",
+      "dracor_id": "shake-much-ado-about-nothing",
+      "title": "Much Ado About Nothing",
+      "genre": "Comedy",
+      "written_year": 1598,
+      "first_printed": "1600 (Q1)",
+      "num_acts": 5,
+      "num_scenes": 17,
+      "num_speakers": 23,
+      "word_count": 21157,
+      "network_nodes": 23,
+      "network_edges": 81,
+      "network_density": 0.32,
+      "clustering_coeff": 0.562,
+      "key_characters": [
+        {
+          "canonical_name": "Benedick",
+          "gender": "M",
+          "social_rank": "Lord of Padua / Bachelor",
+          "degree_centrality": 0.54
+        },
+        {
+          "canonical_name": "Beatrice",
+          "gender": "F",
+          "social_rank": "Niece to Leonato / Lady of Wit",
+          "degree_centrality": 0.49
+        },
+        {
+          "canonical_name": "Don Pedro",
+          "gender": "M",
+          "social_rank": "Prince of Aragon",
+          "degree_centrality": 0.56
+        },
+        {
+          "canonical_name": "Claudio",
+          "gender": "M",
+          "social_rank": "Young Florentine Lord",
+          "degree_centrality": 0.45
+        },
+        {
+          "canonical_name": "Dogberry",
+          "gender": "M",
+          "social_rank": "Constable of the Watch",
+          "degree_centrality": 0.27
+        }
+      ]
+    },
+    {
+      "play_id": "2-henry-iv",
+      "dracor_id": "shake-2-henry-iv",
+      "title": "2 Henry IV",
+      "genre": "History",
+      "written_year": 1598,
+      "first_printed": "1600 (Q1)",
+      "num_acts": 5,
+      "num_scenes": 19,
+      "num_speakers": 45,
+      "word_count": 26177,
+      "network_nodes": 45,
+      "network_edges": 132,
+      "network_density": 0.133,
+      "clustering_coeff": 0.412,
+      "key_characters": [
+        {
+          "canonical_name": "Sir John Falstaff",
+          "gender": "M",
+          "social_rank": "Aging Knight / Banished Wit",
+          "degree_centrality": 0.59
+        },
+        {
+          "canonical_name": "Prince Hal (King Henry V)",
+          "gender": "M",
+          "social_rank": "Reformed Monarch",
+          "degree_centrality": 0.41
+        },
+        {
+          "canonical_name": "King Henry IV",
+          "gender": "M",
+          "social_rank": "Dying Sovereign",
+          "degree_centrality": 0.31
+        },
+        {
+          "canonical_name": "Lord Chief Justice",
+          "gender": "M",
+          "social_rank": "Embodiment of Common Law",
+          "degree_centrality": 0.34
+        },
+        {
+          "canonical_name": "Justice Shallow",
+          "gender": "M",
+          "social_rank": "Country Justice of Gloucestershire",
+          "degree_centrality": 0.29
+        }
+      ]
+    },
+    {
+      "play_id": "as-you-like-it",
+      "dracor_id": "shake-as-you-like-it",
+      "title": "As You Like It",
+      "genre": "Comedy",
+      "written_year": 1599,
+      "first_printed": "1623 (F1)",
+      "num_acts": 5,
+      "num_scenes": 22,
+      "num_speakers": 23,
+      "word_count": 21690,
+      "network_nodes": 23,
+      "network_edges": 74,
+      "network_density": 0.292,
+      "clustering_coeff": 0.531,
+      "key_characters": [
+        {
+          "canonical_name": "Rosalind / Ganymede",
+          "gender": "F",
+          "social_rank": "Exiled Princess & Disguised Youth",
+          "degree_centrality": 0.62
+        },
+        {
+          "canonical_name": "Orlando",
+          "gender": "M",
+          "social_rank": "Disinherited Son of Sir Rowland",
+          "degree_centrality": 0.48
+        },
+        {
+          "canonical_name": "Celia / Aliena",
+          "gender": "F",
+          "social_rank": "Daughter of Duke Frederick",
+          "degree_centrality": 0.44
+        },
+        {
+          "canonical_name": "Touchstone",
+          "gender": "M",
+          "social_rank": "Court Jester / Cynical Fool",
+          "degree_centrality": 0.39
+        },
+        {
+          "canonical_name": "Jaques",
+          "gender": "M",
+          "social_rank": "Melancholy Lord / 'All the world's a stage'",
+          "degree_centrality": 0.33
+        }
+      ]
+    },
+    {
+      "play_id": "henry-v",
+      "dracor_id": "shake-henry-v",
+      "title": "Henry V",
+      "genre": "History",
+      "written_year": 1599,
+      "first_printed": "1600 (Q1)",
+      "num_acts": 5,
+      "num_scenes": 28,
+      "num_speakers": 46,
+      "word_count": 26119,
+      "network_nodes": 46,
+      "network_edges": 142,
+      "network_density": 0.137,
+      "clustering_coeff": 0.435,
+      "key_characters": [
+        {
+          "canonical_name": "King Henry V",
+          "gender": "M",
+          "social_rank": "Heroic Warrior King / Agincourt",
+          "degree_centrality": 0.74
+        },
+        {
+          "canonical_name": "Chorus",
+          "gender": "M",
+          "social_rank": "Epic Narrator / Choric Frame",
+          "degree_centrality": 0.18
+        },
+        {
+          "canonical_name": "Fluellen",
+          "gender": "M",
+          "social_rank": "Welsh Captain of Classical Warfare",
+          "degree_centrality": 0.36
+        },
+        {
+          "canonical_name": "Ancient Pistol",
+          "gender": "M",
+          "social_rank": "Swaggering Braggart Soldier",
+          "degree_centrality": 0.29
+        },
+        {
+          "canonical_name": "Princess Katherine",
+          "gender": "F",
+          "social_rank": "Princess of France / Royal Bride",
+          "degree_centrality": 0.22
+        }
+      ]
+    },
+    {
+      "play_id": "julius-caesar",
+      "dracor_id": "shake-julius-caesar",
+      "title": "Julius Caesar",
+      "genre": "Tragedy",
+      "written_year": 1599,
+      "first_printed": "1623 (F1)",
+      "num_acts": 5,
+      "num_scenes": 18,
+      "num_speakers": 44,
+      "word_count": 19703,
+      "network_nodes": 44,
+      "network_edges": 130,
+      "network_density": 0.137,
+      "clustering_coeff": 0.432,
+      "key_characters": [
+        {
+          "canonical_name": "Marcus Brutus",
+          "gender": "M",
+          "social_rank": "Honourable Conspirator",
+          "degree_centrality": 0.62
+        },
+        {
+          "canonical_name": "Caius Cassius",
+          "gender": "M",
+          "social_rank": "Lean & Hungry Conspirator",
+          "degree_centrality": 0.53
+        },
+        {
+          "canonical_name": "Mark Antony",
+          "gender": "M",
+          "social_rank": "Caesarean Triumvir & Orator",
+          "degree_centrality": 0.44
+        },
+        {
+          "canonical_name": "Julius Caesar",
+          "gender": "M",
+          "social_rank": "Dictator of Rome",
+          "degree_centrality": 0.31
+        }
+      ]
+    },
+    {
+      "play_id": "twelfth-night",
+      "dracor_id": "shake-twelfth-night",
+      "title": "Twelfth Night, or What You Will",
+      "genre": "Comedy",
+      "written_year": 1601,
+      "first_printed": "1623 (F1)",
+      "num_acts": 5,
+      "num_scenes": 18,
+      "num_speakers": 18,
+      "word_count": 19837,
+      "network_nodes": 18,
+      "network_edges": 55,
+      "network_density": 0.359,
+      "clustering_coeff": 0.615,
+      "key_characters": [
+        {
+          "canonical_name": "Viola / Cesario",
+          "gender": "F",
+          "social_rank": "Shipwrecked Lady disguised as Page",
+          "degree_centrality": 0.55
+        },
+        {
+          "canonical_name": "Duke Orsino",
+          "gender": "M",
+          "social_rank": "Duke of Illyria",
+          "degree_centrality": 0.38
+        },
+        {
+          "canonical_name": "Countess Olivia",
+          "gender": "F",
+          "social_rank": "Illyrian Countess",
+          "degree_centrality": 0.51
+        },
+        {
+          "canonical_name": "Malvolio",
+          "gender": "M",
+          "social_rank": "Steward to Olivia / Puritannical",
+          "degree_centrality": 0.34
+        },
+        {
+          "canonical_name": "Sir Toby Belch",
+          "gender": "M",
+          "social_rank": "Uncle to Olivia / Tavern Roisterer",
+          "degree_centrality": 0.56
+        },
+        {
+          "canonical_name": "Feste",
+          "gender": "M",
+          "social_rank": "The Clown / Singer / Jester",
+          "degree_centrality": 0.42
+        }
+      ]
+    },
+    {
+      "play_id": "hamlet",
+      "dracor_id": "shake-hamlet",
+      "title": "Hamlet, Prince of Denmark",
+      "genre": "Tragedy",
+      "written_year": 1601,
+      "first_printed": "1603 (Q1)",
+      "num_acts": 5,
+      "num_scenes": 20,
+      "num_speakers": 36,
+      "word_count": 29551,
+      "network_nodes": 36,
+      "network_edges": 124,
+      "network_density": 0.197,
+      "clustering_coeff": 0.482,
+      "key_characters": [
+        {
+          "canonical_name": "Hamlet",
+          "gender": "M",
+          "social_rank": "Prince of Denmark / Tragic Philosopher",
+          "degree_centrality": 0.79
+        },
+        {
+          "canonical_name": "King Claudius",
+          "gender": "M",
+          "social_rank": "Usurping Fratricide King",
+          "degree_centrality": 0.49
+        },
+        {
+          "canonical_name": "Polonius",
+          "gender": "M",
+          "social_rank": "Lord Chamberlain / Spy",
+          "degree_centrality": 0.42
+        },
+        {
+          "canonical_name": "Queen Gertrude",
+          "gender": "F",
+          "social_rank": "Queen of Denmark / Mother",
+          "degree_centrality": 0.32
+        },
+        {
+          "canonical_name": "Ophelia",
+          "gender": "F",
+          "social_rank": "Daughter to Polonius / Tragic Maid",
+          "degree_centrality": 0.34
+        },
+        {
+          "canonical_name": "Horatio",
+          "gender": "M",
+          "social_rank": "Loyal Stoic Friend",
+          "degree_centrality": 0.48
+        }
+      ]
+    },
+    {
+      "play_id": "troilus-and-cressida",
+      "dracor_id": "shake-troilus-and-cressida",
+      "title": "Troilus and Cressida",
+      "genre": "Comedy",
+      "written_year": 1602,
+      "first_printed": "1609 (Q1)",
+      "num_acts": 5,
+      "num_scenes": 24,
+      "num_speakers": 30,
+      "word_count": 26089,
+      "network_nodes": 30,
+      "network_edges": 112,
+      "network_density": 0.257,
+      "clustering_coeff": 0.489,
+      "key_characters": [
+        {
+          "canonical_name": "Troilus",
+          "gender": "M",
+          "social_rank": "Trojan Prince & Lover",
+          "degree_centrality": 0.49
+        },
+        {
+          "canonical_name": "Cressida",
+          "gender": "F",
+          "social_rank": "Trojan Maiden / Inconstant",
+          "degree_centrality": 0.38
+        },
+        {
+          "canonical_name": "Pandarus",
+          "gender": "M",
+          "social_rank": "Uncle & Go-between",
+          "degree_centrality": 0.52
+        },
+        {
+          "canonical_name": "Hector",
+          "gender": "M",
+          "social_rank": "Noble Trojan Champion",
+          "degree_centrality": 0.35
+        },
+        {
+          "canonical_name": "Ulysses",
+          "gender": "M",
+          "social_rank": "Cunning Greek Statesman",
+          "degree_centrality": 0.44
+        },
+        {
+          "canonical_name": "Thersites",
+          "gender": "M",
+          "social_rank": "Scurrilous Greek Critic",
+          "degree_centrality": 0.33
+        }
+      ]
+    },
+    {
+      "play_id": "all-s-well-that-ends-well",
+      "dracor_id": "shake-all-s-well-that-ends-well",
+      "title": "All's Well That Ends Well",
+      "genre": "Comedy",
+      "written_year": 1604,
+      "first_printed": "1623 (F1)",
+      "num_acts": 5,
+      "num_scenes": 23,
+      "num_speakers": 22,
+      "word_count": 22962,
+      "network_nodes": 22,
+      "network_edges": 68,
+      "network_density": 0.294,
+      "clustering_coeff": 0.528,
+      "key_characters": [
+        {
+          "canonical_name": "Helena",
+          "gender": "F",
+          "social_rank": "Physician's Daughter / Countess of Roussillon",
+          "degree_centrality": 0.51
+        },
+        {
+          "canonical_name": "Bertram",
+          "gender": "M",
+          "social_rank": "Count of Roussillon",
+          "degree_centrality": 0.44
+        },
+        {
+          "canonical_name": "King of France",
+          "gender": "M",
+          "social_rank": "Sovereign Monarch",
+          "degree_centrality": 0.38
+        },
+        {
+          "canonical_name": "Parolles",
+          "gender": "M",
+          "social_rank": "Braggart Soldier",
+          "degree_centrality": 0.53
+        },
+        {
+          "canonical_name": "Countess of Roussillon",
+          "gender": "F",
+          "social_rank": "Mother to Bertram",
+          "degree_centrality": 0.42
+        }
+      ]
+    },
+    {
+      "play_id": "measure-for-measure",
+      "dracor_id": "shake-measure-for-measure",
+      "title": "Measure for Measure",
+      "genre": "Comedy",
+      "written_year": 1604,
+      "first_printed": "1623 (F1)",
+      "num_acts": 5,
+      "num_scenes": 17,
+      "num_speakers": 21,
+      "word_count": 21686,
+      "network_nodes": 21,
+      "network_edges": 69,
+      "network_density": 0.329,
+      "clustering_coeff": 0.564,
+      "key_characters": [
+        {
+          "canonical_name": "Duke Vincentio (Friar Lodowick)",
+          "gender": "M",
+          "social_rank": "Duke of Vienna in disguise",
+          "degree_centrality": 0.64
+        },
+        {
+          "canonical_name": "Angelo",
+          "gender": "M",
+          "social_rank": "Corrupt Deputy Regent",
+          "degree_centrality": 0.48
+        },
+        {
+          "canonical_name": "Isabella",
+          "gender": "F",
+          "social_rank": "Novice Nun / Sister to Claudio",
+          "degree_centrality": 0.52
+        },
+        {
+          "canonical_name": "Lucio",
+          "gender": "M",
+          "social_rank": "Fantastic / Sarcastic Wit",
+          "degree_centrality": 0.39
+        },
+        {
+          "canonical_name": "Pompey Bum",
+          "gender": "M",
+          "social_rank": "Bawd / Tapster",
+          "degree_centrality": 0.31
+        }
+      ]
+    },
+    {
+      "play_id": "othello",
+      "dracor_id": "shake-othello",
+      "title": "Othello, the Moor of Venice",
+      "genre": "Tragedy",
+      "written_year": 1604,
+      "first_printed": "1622 (Q1)",
+      "num_acts": 5,
+      "num_scenes": 15,
+      "num_speakers": 23,
+      "word_count": 25862,
+      "network_nodes": 23,
+      "network_edges": 79,
+      "network_density": 0.312,
+      "clustering_coeff": 0.551,
+      "key_characters": [
+        {
+          "canonical_name": "Iago",
+          "gender": "M",
+          "social_rank": "Venetian Ensign / Machiavellian Mastermind",
+          "degree_centrality": 0.77
+        },
+        {
+          "canonical_name": "Othello",
+          "gender": "M",
+          "social_rank": "Moorish General in Venice",
+          "degree_centrality": 0.76
+        },
+        {
+          "canonical_name": "Desdemona",
+          "gender": "F",
+          "social_rank": "Noble Venetian Wife",
+          "degree_centrality": 0.54
+        },
+        {
+          "canonical_name": "Michael Cassio",
+          "gender": "M",
+          "social_rank": "Lieutenant to Othello",
+          "degree_centrality": 0.45
+        },
+        {
+          "canonical_name": "Emilia",
+          "gender": "F",
+          "social_rank": "Wife to Iago & Attendant",
+          "degree_centrality": 0.43
+        }
+      ]
+    },
+    {
+      "play_id": "king-lear",
+      "dracor_id": "shake-king-lear",
+      "title": "King Lear",
+      "genre": "Tragedy",
+      "written_year": 1605,
+      "first_printed": "1608 (Q1)",
+      "num_acts": 5,
+      "num_scenes": 26,
+      "num_speakers": 28,
+      "word_count": 25604,
+      "network_nodes": 28,
+      "network_edges": 97,
+      "network_density": 0.257,
+      "clustering_coeff": 0.528,
+      "key_characters": [
+        {
+          "canonical_name": "King Lear",
+          "gender": "M",
+          "social_rank": "Fallen King of Britain",
+          "degree_centrality": 0.65
+        },
+        {
+          "canonical_name": "The Fool",
+          "gender": "M",
+          "social_rank": "Court Jester / Choric Conscience",
+          "degree_centrality": 0.35
+        },
+        {
+          "canonical_name": "Edmund",
+          "gender": "M",
+          "social_rank": "Machiavellian Bastard Son",
+          "degree_centrality": 0.47
+        },
+        {
+          "canonical_name": "Edgar (Poor Tom)",
+          "gender": "M",
+          "social_rank": "Legitimate Son in Mad Disguise",
+          "degree_centrality": 0.49
+        },
+        {
+          "canonical_name": "Earl of Kent (Caius)",
+          "gender": "M",
+          "social_rank": "Loyal Disguised Retainer",
+          "degree_centrality": 0.51
+        },
+        {
+          "canonical_name": "Cordelia",
+          "gender": "F",
+          "social_rank": "Virtuous Third Daughter",
+          "degree_centrality": 0.25
+        }
+      ]
+    },
+    {
+      "play_id": "macbeth",
+      "dracor_id": "shake-macbeth",
+      "title": "Macbeth",
+      "genre": "Tragedy",
+      "written_year": 1606,
+      "first_printed": "1623 (F1)",
+      "num_acts": 5,
+      "num_scenes": 28,
+      "num_speakers": 42,
+      "word_count": 17121,
+      "network_nodes": 42,
+      "network_edges": 114,
+      "network_density": 0.132,
+      "clustering_coeff": 0.428,
+      "key_characters": [
+        {
+          "canonical_name": "Macbeth",
+          "gender": "M",
+          "social_rank": "Thane of Glamis / Regicide King",
+          "degree_centrality": 0.61
+        },
+        {
+          "canonical_name": "Lady Macbeth",
+          "gender": "F",
+          "social_rank": "Queen & Partner in Greatness",
+          "degree_centrality": 0.42
+        },
+        {
+          "canonical_name": "Macduff",
+          "gender": "M",
+          "social_rank": "Thane of Fife / Revenger",
+          "degree_centrality": 0.38
+        },
+        {
+          "canonical_name": "Banquo",
+          "gender": "M",
+          "social_rank": "Noble Scottish General / Ghost",
+          "degree_centrality": 0.29
+        },
+        {
+          "canonical_name": "Malcolm",
+          "gender": "M",
+          "social_rank": "Son to Duncan & True Heir",
+          "degree_centrality": 0.31
+        }
+      ]
+    },
+    {
+      "play_id": "timon-of-athens",
+      "dracor_id": "shake-timon-of-athens",
+      "title": "Timon of Athens",
+      "genre": "Tragedy",
+      "written_year": 1606,
+      "first_printed": "1623 (F1)",
+      "num_acts": 5,
+      "num_scenes": 17,
+      "num_speakers": 42,
+      "word_count": 17998,
+      "network_nodes": 42,
+      "network_edges": 108,
+      "network_density": 0.125,
+      "clustering_coeff": 0.415,
+      "key_characters": [
+        {
+          "canonical_name": "Timon of Athens",
+          "gender": "M",
+          "social_rank": "Lavish Lord turned Misanthrope",
+          "degree_centrality": 0.68
+        },
+        {
+          "canonical_name": "Apemantus",
+          "gender": "M",
+          "social_rank": "Churlish Cynic Philosopher",
+          "degree_centrality": 0.44
+        },
+        {
+          "canonical_name": "Alcibiades",
+          "gender": "M",
+          "social_rank": "Athenian General",
+          "degree_centrality": 0.28
+        },
+        {
+          "canonical_name": "Flavius",
+          "gender": "M",
+          "social_rank": "Honest Faithful Steward",
+          "degree_centrality": 0.39
+        }
+      ]
+    },
+    {
+      "play_id": "antony-and-cleopatra",
+      "dracor_id": "shake-antony-and-cleopatra",
+      "title": "Antony and Cleopatra",
+      "genre": "Tragedy",
+      "written_year": 1607,
+      "first_printed": "1623 (F1)",
+      "num_acts": 5,
+      "num_scenes": 42,
+      "num_speakers": 47,
+      "word_count": 24905,
+      "network_nodes": 47,
+      "network_edges": 146,
+      "network_density": 0.135,
+      "clustering_coeff": 0.429,
+      "key_characters": [
+        {
+          "canonical_name": "Mark Antony",
+          "gender": "M",
+          "social_rank": "Roman Triumvir / Captive Lover",
+          "degree_centrality": 0.65
+        },
+        {
+          "canonical_name": "Cleopatra",
+          "gender": "F",
+          "social_rank": "Queen of Egypt",
+          "degree_centrality": 0.66
+        },
+        {
+          "canonical_name": "Octavius Caesar (Augustus)",
+          "gender": "M",
+          "social_rank": "Cold Roman Emperor",
+          "degree_centrality": 0.45
+        },
+        {
+          "canonical_name": "Domitius Enobarbus",
+          "gender": "M",
+          "social_rank": "Cynical Roman Lieutenant",
+          "degree_centrality": 0.48
+        }
+      ]
+    },
+    {
+      "play_id": "coriolanus",
+      "dracor_id": "shake-coriolanus",
+      "title": "Coriolanus",
+      "genre": "Tragedy",
+      "written_year": 1608,
+      "first_printed": "1623 (F1)",
+      "num_acts": 5,
+      "num_scenes": 29,
+      "num_speakers": 58,
+      "word_count": 27589,
+      "network_nodes": 58,
+      "network_edges": 172,
+      "network_density": 0.104,
+      "clustering_coeff": 0.391,
+      "key_characters": [
+        {
+          "canonical_name": "Caius Marcius Coriolanus",
+          "gender": "M",
+          "social_rank": "Arrogant Roman Hero",
+          "degree_centrality": 0.62
+        },
+        {
+          "canonical_name": "Volumnia",
+          "gender": "F",
+          "social_rank": "Matriarch of Rome & Mother",
+          "degree_centrality": 0.38
+        },
+        {
+          "canonical_name": "Menenius Agrippa",
+          "gender": "M",
+          "social_rank": "Patrician Orator / Belly Fable",
+          "degree_centrality": 0.54
+        },
+        {
+          "canonical_name": "Tullus Aufidius",
+          "gender": "M",
+          "social_rank": "Volscian General & Rival",
+          "degree_centrality": 0.31
+        }
+      ]
+    },
+    {
+      "play_id": "pericles",
+      "dracor_id": "shake-pericles",
+      "title": "Pericles, Prince of Tyre",
+      "genre": "Romance",
+      "written_year": 1608,
+      "first_printed": "1609 (Q1)",
+      "num_acts": 5,
+      "num_scenes": 22,
+      "num_speakers": 38,
+      "word_count": 18349,
+      "network_nodes": 38,
+      "network_edges": 102,
+      "network_density": 0.145,
+      "clustering_coeff": 0.438,
+      "key_characters": [
+        {
+          "canonical_name": "Pericles",
+          "gender": "M",
+          "social_rank": "Prince of Tyre / Wanderer",
+          "degree_centrality": 0.53
+        },
+        {
+          "canonical_name": "John Gower",
+          "gender": "M",
+          "social_rank": "Ancient Choric Poet",
+          "degree_centrality": 0.21
+        },
+        {
+          "canonical_name": "Marina",
+          "gender": "F",
+          "social_rank": "Lost Daughter of Pericles",
+          "degree_centrality": 0.36
+        },
+        {
+          "canonical_name": "Thaisa",
+          "gender": "F",
+          "social_rank": "Queen of Tyre / Revived Wife",
+          "degree_centrality": 0.22
+        }
+      ]
+    },
+    {
+      "play_id": "cymbeline",
+      "dracor_id": "shake-cymbeline",
+      "title": "Cymbeline",
+      "genre": "Romance",
+      "written_year": 1610,
+      "first_printed": "1623 (F1)",
+      "num_acts": 5,
+      "num_scenes": 27,
+      "num_speakers": 40,
+      "word_count": 27527,
+      "network_nodes": 40,
+      "network_edges": 126,
+      "network_density": 0.162,
+      "clustering_coeff": 0.461,
+      "key_characters": [
+        {
+          "canonical_name": "Imogen (Fidele)",
+          "gender": "F",
+          "social_rank": "Princess of Britain in Disguise",
+          "degree_centrality": 0.52
+        },
+        {
+          "canonical_name": "Posthumus Leonatus",
+          "gender": "M",
+          "social_rank": "Exiled Husband",
+          "degree_centrality": 0.41
+        },
+        {
+          "canonical_name": "Iachimo",
+          "gender": "M",
+          "social_rank": "Italian Slanderer / Seducer",
+          "degree_centrality": 0.39
+        },
+        {
+          "canonical_name": "King Cymbeline",
+          "gender": "M",
+          "social_rank": "King of Britain",
+          "degree_centrality": 0.37
+        },
+        {
+          "canonical_name": "Belarius (Morgan)",
+          "gender": "M",
+          "social_rank": "Banished Lord in Welsh Cave",
+          "degree_centrality": 0.35
+        }
+      ]
+    },
+    {
+      "play_id": "the-winter-s-tale",
+      "dracor_id": "shake-the-winter-s-tale",
+      "title": "The Winter's Tale",
+      "genre": "Comedy",
+      "written_year": 1611,
+      "first_printed": "1623 (F1)",
+      "num_acts": 5,
+      "num_scenes": 15,
+      "num_speakers": 31,
+      "word_count": 24846,
+      "network_nodes": 31,
+      "network_edges": 86,
+      "network_density": 0.185,
+      "clustering_coeff": 0.441,
+      "key_characters": [
+        {
+          "canonical_name": "Leontes",
+          "gender": "M",
+          "social_rank": "King of Sicilia / Jealous Tyrant",
+          "degree_centrality": 0.55
+        },
+        {
+          "canonical_name": "Hermione",
+          "gender": "F",
+          "social_rank": "Queen of Sicilia / Living Statue",
+          "degree_centrality": 0.31
+        },
+        {
+          "canonical_name": "Camillo",
+          "gender": "M",
+          "social_rank": "Sicilian Nobleman & Mediator",
+          "degree_centrality": 0.49
+        },
+        {
+          "canonical_name": "Paulina",
+          "gender": "F",
+          "social_rank": "Fierce Defender of the Queen",
+          "degree_centrality": 0.42
+        },
+        {
+          "canonical_name": "Autolycus",
+          "gender": "M",
+          "social_rank": "Rogue / Ballad-Monger / Pedlar",
+          "degree_centrality": 0.34
+        },
+        {
+          "canonical_name": "Perdita",
+          "gender": "F",
+          "social_rank": "Lost Princess of Sicilia",
+          "degree_centrality": 0.26
+        }
+      ]
+    },
+    {
+      "play_id": "the-tempest",
+      "dracor_id": "shake-the-tempest",
+      "title": "The Tempest",
+      "genre": "Romance",
+      "written_year": 1611,
+      "first_printed": "1623 (F1)",
+      "num_acts": 5,
+      "num_scenes": 9,
+      "num_speakers": 20,
+      "word_count": 16036,
+      "network_nodes": 20,
+      "network_edges": 60,
+      "network_density": 0.316,
+      "clustering_coeff": 0.582,
+      "key_characters": [
+        {
+          "canonical_name": "Prospero",
+          "gender": "M",
+          "social_rank": "Rightful Duke of Milan & Magician",
+          "degree_centrality": 0.61
+        },
+        {
+          "canonical_name": "Ariel",
+          "gender": "M",
+          "social_rank": "Airy Spirit",
+          "degree_centrality": 0.36
+        },
+        {
+          "canonical_name": "Caliban",
+          "gender": "M",
+          "social_rank": "Deformed Savage Monster / Slave",
+          "degree_centrality": 0.34
+        },
+        {
+          "canonical_name": "Miranda",
+          "gender": "F",
+          "social_rank": "Daughter to Prospero",
+          "degree_centrality": 0.35
+        },
+        {
+          "canonical_name": "Ferdinand",
+          "gender": "M",
+          "social_rank": "Prince of Naples",
+          "degree_centrality": 0.28
+        },
+        {
+          "canonical_name": "Gonzalo",
+          "gender": "M",
+          "social_rank": "Honest Old Counselor",
+          "degree_centrality": 0.33
+        }
+      ]
+    },
+    {
+      "play_id": "henry-viii",
+      "dracor_id": "shake-henry-viii",
+      "title": "Henry VIII (All Is True)",
+      "genre": "History",
+      "written_year": 1613,
+      "first_printed": "1623 (F1)",
+      "num_acts": 5,
+      "num_scenes": 17,
+      "num_speakers": 38,
+      "word_count": 24629,
+      "network_nodes": 38,
+      "network_edges": 115,
+      "network_density": 0.164,
+      "clustering_coeff": 0.468,
+      "key_characters": [
+        {
+          "canonical_name": "King Henry VIII",
+          "gender": "M",
+          "social_rank": "Tudor Sovereign",
+          "degree_centrality": 0.58
+        },
+        {
+          "canonical_name": "Cardinal Wolsey",
+          "gender": "M",
+          "social_rank": "Lord Chancellor / Fallen Magnate",
+          "degree_centrality": 0.53
+        },
+        {
+          "canonical_name": "Queen Katharine of Aragon",
+          "gender": "F",
+          "social_rank": "Dignified Cast-off Queen",
+          "degree_centrality": 0.38
+        },
+        {
+          "canonical_name": "Thomas Cranmer",
+          "gender": "M",
+          "social_rank": "Archbishop of Canterbury",
+          "degree_centrality": 0.29
+        }
+      ]
+    }
+  ]
+}

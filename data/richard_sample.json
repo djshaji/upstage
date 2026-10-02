@@ -1,0 +1,175 @@
+{
+  "play_id": "richard_iii",
+  "title": "The Tragedy of King Richard the Third",
+  "genre": "history",
+  "characters": {
+    "richard": {
+      "name": "Richard, Duke of Gloucester",
+      "rank": "Duke / Regent / Usurper"
+    },
+    "anne": {
+      "name": "Lady Anne",
+      "rank": "Widow to Edward, Prince of Wales"
+    },
+    "gentleman": {
+      "name": "Gentleman",
+      "rank": "Attendant bearing Henry VI hearse"
+    },
+    "tressel": {
+      "name": "Tressel",
+      "rank": "Gentleman Attendant"
+    }
+  },
+  "stage_events": [
+    {
+      "line_number": 1,
+      "event_type": "ENTER",
+      "characters": [
+        "anne",
+        "gentleman",
+        "tressel"
+      ],
+      "description": "Enter the corpse of King Henry the Sixth, Gentlemen bearing the hearse, and Lady Anne being the mourner."
+    },
+    {
+      "line_number": 33,
+      "event_type": "ENTER",
+      "characters": [
+        "richard"
+      ],
+      "description": "Enter Richard, Duke of Gloucester."
+    },
+    {
+      "line_number": 227,
+      "event_type": "EXIT",
+      "characters": [
+        "anne",
+        "gentleman",
+        "tressel"
+      ],
+      "description": "Exit Lady Anne and Gentlemen with the corse."
+    }
+  ],
+  "scenes": [
+    {
+      "act": 1,
+      "scene": 2,
+      "setting": "London. Another street.",
+      "turns": [
+        {
+          "turn_id": "R3_1_2_t1",
+          "act": 1,
+          "scene": 2,
+          "line_start": 1,
+          "line_end": 30,
+          "speaker_id": "anne",
+          "text": "Set down, set down your honourable load, If honour may be shrouded in a hearse, Whilst I awhile obsequiously lament The untimely fall of virtuous Lancaster. O, cursed be the hand that made these holes! Cursed the heart that had the heart to do it! Cursed the blood that let this blood from hence!",
+          "meter_type": "blank_verse",
+          "speech_type": "monologue",
+          "actantial_intent": "choric_lament",
+          "addressee_id": "gentleman"
+        },
+        {
+          "turn_id": "R3_1_2_t2",
+          "act": 1,
+          "scene": 2,
+          "line_start": 33,
+          "line_end": 34,
+          "speaker_id": "richard",
+          "text": "Stay, you that bear the corse, and set it down.",
+          "meter_type": "blank_verse",
+          "speech_type": "dialogue",
+          "addressee_id": "gentleman"
+        },
+        {
+          "turn_id": "R3_1_2_t3",
+          "act": 1,
+          "scene": 2,
+          "line_start": 49,
+          "line_end": 56,
+          "speaker_id": "anne",
+          "text": "Foul devil, for God's sake, hence, and trouble us not; For thou hast made the happy earth thy hell, Fill'd it with cursing cries and deep exclaims. If thou delight to view thy heinous deeds, Behold this pattern of thy butcheries.",
+          "meter_type": "blank_verse",
+          "speech_type": "dialogue",
+          "actantial_intent": "admonition",
+          "addressee_id": "richard"
+        },
+        {
+          "turn_id": "R3_1_2_t4",
+          "act": 1,
+          "scene": 2,
+          "line_start": 121,
+          "line_end": 125,
+          "speaker_id": "richard",
+          "text": "Your beauty was the cause of that effect; Your beauty: which did haunt me in my sleep To undertake the death of all the world, So I might live one hour in your sweet bosom.",
+          "meter_type": "blank_verse",
+          "speech_type": "dialogue",
+          "addressee_id": "anne"
+        },
+        {
+          "turn_id": "R3_1_2_t5",
+          "act": 1,
+          "scene": 2,
+          "line_start": 126,
+          "line_end": 130,
+          "speaker_id": "anne",
+          "text": "If I thought that, I tell thee, homicide, These nails should rend that beauty from my cheeks.",
+          "meter_type": "blank_verse",
+          "speech_type": "dialogue",
+          "actantial_intent": "philosophical_inquiry",
+          "addressee_id": "richard"
+        },
+        {
+          "turn_id": "R3_1_2_t6",
+          "act": 1,
+          "scene": 2,
+          "line_start": 175,
+          "line_end": 182,
+          "speaker_id": "richard",
+          "text": "Lo, here I lend this sharp-pointed sword; Which if thou please to hide in this true bosom, And let the soul forth that adoreth thee, I lay it bare unto the mortal stroke, And humbly beg the death upon my knee.",
+          "meter_type": "blank_verse",
+          "speech_type": "dialogue",
+          "addressee_id": "anne"
+        },
+        {
+          "turn_id": "R3_1_2_t7",
+          "act": 1,
+          "scene": 2,
+          "line_start": 184,
+          "line_end": 186,
+          "speaker_id": "anne",
+          "text": "Arise, dissembler: though I wish thy death, I will not be the executioner.",
+          "meter_type": "blank_verse",
+          "speech_type": "dialogue",
+          "actantial_intent": "evasion_self_preservation",
+          "addressee_id": "richard"
+        },
+        {
+          "turn_id": "R3_1_2_t8",
+          "act": 1,
+          "scene": 2,
+          "line_start": 204,
+          "line_end": 207,
+          "speaker_id": "richard",
+          "text": "Look, how this ring encompasseth thy finger, Even so thy breast encloseth my poor heart; Wear both of them, for both of them are thine.",
+          "meter_type": "blank_verse",
+          "speech_type": "dialogue",
+          "addressee_id": "anne"
+        },
+        {
+          "turn_id": "R3_1_2_t9",
+          "act": 1,
+          "scene": 2,
+          "line_start": 208,
+          "line_end": 210,
+          "speaker_id": "anne",
+          "text": "To take is not to give.",
+          "meter_type": "blank_verse",
+          "speech_type": "dialogue",
+          "actantial_intent": "comic_deflection",
+          "addressee_id": "richard"
+        }
+      ]
+    }
+  ]
+}

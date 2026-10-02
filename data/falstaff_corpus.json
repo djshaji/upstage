@@ -1,0 +1,39 @@
+{
+  "donor_id": "falstaff",
+  "canonical_name": "Sir John Falstaff",
+  "source_plays": [
+    "1 Henry IV",
+    "2 Henry IV"
+  ],
+  "rank": "Knight (impoverished)",
+  "turns": [
+    {
+      "id": "1H4_1_2_f1",
+      "play": "1 Henry IV",
+      "act": 1,
+      "scene": 2,
+      "text": "Now, Hal, what time of day is it, lad? Indeed, you come near me now, Hal; for we that take purses go by the moon and the seven stars, and not by Phoebus, he, 'that wandering knight so fair.' And, I prithee, sweet wag, when thou art a king, as, God save thy grace,\u2014majesty I should say, for grace thou wilt have none,\u2014let not us that are squires of the night's body be called thieves of the day's beauty."
+    },
+    {
+      "id": "1H4_2_4_f2",
+      "play": "1 Henry IV",
+      "act": 2,
+      "scene": 4,
+      "text": "Give me a cup of sack, boy. Ere I lead this life long, I'll sew nether stocks and mend them and foot them too. A plague of all cowards! Give me a cup of sack, rogue. Is there no virtue extant? You rogue, here's lime in this sack too: there is nothing but roguery to be found in villanous man: yet a coward is worse than a cup of sack with lime in it. A groat to a shilling, there's not three good men unhanged in England; and one of them is fat and grows old: God help the while!"
+    },
+    {
+      "id": "1H4_5_1_f3",
+      "play": "1 Henry IV",
+      "act": 5,
+      "scene": 1,
+      "text": "'Tis not due yet; I would be loath to pay him before his day. What need I be so forward with him that calls not on me? Well, 'tis no matter; honour pricks me on. Yea, but how if honour prick me off when I come on? how then? Can honour set to a leg? no: or an arm? no: or take away the grief of a wound? no. Honour hath no skill in surgery, then? no. What is honour? a word. What is in that word honour? what is that honour? air. A trim reckoning! Who hath it? he that died o' Wednesday. Doth he feel it? no. Doth he hear it? no. 'Tis insensible, then. Yea, to the dead. But will it not live with the living? no. Why? detraction will not suffer it. Therefore I'll none of it. Honour is a mere scutcheon: and so ends my catechism."
+    },
+    {
+      "id": "2H4_1_2_f4",
+      "play": "2 Henry IV",
+      "act": 1,
+      "scene": 2,
+      "text": "Men of all sorts take a pride to gird at me: the brain of this foolish-compounded clay, man, is not able to invent anything that tends to laughter, more than I invent or is invented on me: I am not only witty in myself, but the cause that wit is in other men. I do here walk before thee like a sow that hath overwhelmed all her litter but one."
+    }
+  ]
+}

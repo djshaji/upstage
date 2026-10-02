@@ -1,0 +1,44 @@
+{
+  "donor_id": "viola",
+  "canonical_name": "Viola (Cesario)",
+  "donor_plays": [
+    "Twelfth Night"
+  ],
+  "turns": [
+    {
+      "id": "TN_1_4_v1",
+      "play": "Twelfth Night",
+      "act": 1,
+      "scene": 4,
+      "text": "I'll do my best To woo your lady: [Aside] yet, a barful strife! Whoe'er I woo, myself would be his wife."
+    },
+    {
+      "id": "TN_1_5_v2",
+      "play": "Twelfth Night",
+      "act": 1,
+      "scene": 5,
+      "text": "Make me a willow cabin at your gate, And call upon my soul within the house; Write loyal cantons of contemned love And sing them loud even in the dead of night; Halloo your name to the reverberate hills And make the babbling gossip of the air Cry out 'Olivia!' O, You should not rest Between the elements of air and earth, But you should pity me!"
+    },
+    {
+      "id": "TN_2_2_v3",
+      "play": "Twelfth Night",
+      "act": 2,
+      "scene": 2,
+      "text": "I left no ring with her: what means this lady? Fortune forbid my outside have not charm'd her! She made good view of me; indeed, so much, That sure methought her eyes had lost her tongue, For she did speak in starts distractedly. ... Disguise, I see, thou art a wickedness, Wherein the pregnant enemy does much. ... O time! thou must untangle this, not I; It is too hard a knot for me to untie!"
+    },
+    {
+      "id": "TN_2_4_v4",
+      "play": "Twelfth Night",
+      "act": 2,
+      "scene": 4,
+      "text": "A blank, my lord. She never told her love, But let concealment, like a worm i' the bud, Feed on her damask cheek: she pined in thought, And with a green and yellow melancholy She sat like patience on a monument, Smiling at grief. Was not this love indeed? We men may say more, swear more: but indeed Our shows are more than will; for still we prove Much in our vows, but little in our love."
+    },
+    {
+      "id": "TN_5_1_v5",
+      "play": "Twelfth Night",
+      "act": 5,
+      "scene": 1,
+      "text": "And I, most jocund, apt and willingly, To do you rest, a thousand deaths would die. ... If nothing lets to make us happy both But this my masculine usurp'd attire, Do not embrace me till each circumstance Of place, time, fortune, do cohere and jump That I am Viola."
+    }
+  ]
+}

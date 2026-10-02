@@ -1,0 +1,263 @@
+{
+  "play_id": "hamlet",
+  "title": "The Tragedy of Hamlet, Prince of Denmark",
+  "genre": "tragedy",
+  "characters": {
+    "hamlet": {
+      "name": "Prince Hamlet",
+      "rank": "Prince of Denmark"
+    },
+    "claudius": {
+      "name": "King Claudius",
+      "rank": "King of Denmark"
+    },
+    "gertrude": {
+      "name": "Queen Gertrude",
+      "rank": "Queen of Denmark"
+    },
+    "polonius": {
+      "name": "Polonius",
+      "rank": "Lord Chamberlain / Chief Counselor"
+    },
+    "ophelia": {
+      "name": "Ophelia",
+      "rank": "Daughter to Polonius"
+    }
+  },
+  "stage_events": [
+    {
+      "line_number": 1,
+      "event_type": "ENTER",
+      "characters": [
+        "claudius",
+        "gertrude",
+        "polonius"
+      ],
+      "description": "Enter King, Queen, and Polonius."
+    },
+    {
+      "line_number": 160,
+      "event_type": "ENTER",
+      "characters": [
+        "hamlet"
+      ],
+      "description": "Enter Hamlet, reading on a book."
+    },
+    {
+      "line_number": 168,
+      "event_type": "EXIT",
+      "characters": [
+        "claudius",
+        "gertrude"
+      ],
+      "description": "Exeunt King and Queen."
+    },
+    {
+      "line_number": 225,
+      "event_type": "EXIT",
+      "characters": [
+        "polonius"
+      ],
+      "description": "Exit Polonius."
+    },
+    {
+      "line_number": 500,
+      "event_type": "ENTER",
+      "characters": [
+        "claudius",
+        "polonius",
+        "ophelia"
+      ],
+      "description": "Enter King, Polonius, and Ophelia."
+    },
+    {
+      "line_number": 545,
+      "event_type": "EXIT",
+      "characters": [
+        "claudius",
+        "polonius"
+      ],
+      "description": "King and Polonius withdraw behind the arras."
+    }
+  ],
+  "scenes": [
+    {
+      "act": 2,
+      "scene": 2,
+      "setting": "A room in the castle of Elsinore",
+      "turns": [
+        {
+          "turn_id": "HAM_2_2_t1",
+          "act": 2,
+          "scene": 2,
+          "line_start": 170,
+          "line_end": 172,
+          "speaker_id": "polonius",
+          "text": "How does my good Lord Hamlet?",
+          "meter_type": "prose",
+          "speech_type": "dialogue",
+          "actantial_intent": "philosophical_inquiry",
+          "addressee_id": "hamlet"
+        },
+        {
+          "turn_id": "HAM_2_2_t2",
+          "act": 2,
+          "scene": 2,
+          "line_start": 173,
+          "line_end": 174,
+          "speaker_id": "hamlet",
+          "text": "Well, God-a-mercy.",
+          "meter_type": "prose",
+          "speech_type": "dialogue",
+          "addressee_id": "polonius"
+        },
+        {
+          "turn_id": "HAM_2_2_t3",
+          "act": 2,
+          "scene": 2,
+          "line_start": 175,
+          "line_end": 176,
+          "speaker_id": "polonius",
+          "text": "Do you know me, my lord?",
+          "meter_type": "prose",
+          "speech_type": "dialogue",
+          "actantial_intent": "philosophical_inquiry",
+          "addressee_id": "hamlet"
+        },
+        {
+          "turn_id": "HAM_2_2_t4",
+          "act": 2,
+          "scene": 2,
+          "line_start": 177,
+          "line_end": 178,
+          "speaker_id": "hamlet",
+          "text": "Excellent well; you are a fishmonger.",
+          "meter_type": "prose",
+          "speech_type": "dialogue",
+          "addressee_id": "polonius"
+        },
+        {
+          "turn_id": "HAM_2_2_t5",
+          "act": 2,
+          "scene": 2,
+          "line_start": 179,
+          "line_end": 180,
+          "speaker_id": "polonius",
+          "text": "Not I, my lord.",
+          "meter_type": "prose",
+          "speech_type": "dialogue",
+          "actantial_intent": "comic_deflection",
+          "addressee_id": "hamlet"
+        },
+        {
+          "turn_id": "HAM_2_2_t6",
+          "act": 2,
+          "scene": 2,
+          "line_start": 181,
+          "line_end": 183,
+          "speaker_id": "hamlet",
+          "text": "Then I would you were so honest a man.",
+          "meter_type": "prose",
+          "speech_type": "dialogue",
+          "addressee_id": "polonius"
+        },
+        {
+          "turn_id": "HAM_2_2_t7",
+          "act": 2,
+          "scene": 2,
+          "line_start": 184,
+          "line_end": 185,
+          "speaker_id": "polonius",
+          "text": "Honest, my lord!",
+          "meter_type": "prose",
+          "speech_type": "dialogue",
+          "actantial_intent": "philosophical_inquiry",
+          "addressee_id": "hamlet"
+        },
+        {
+          "turn_id": "HAM_2_2_t8",
+          "act": 2,
+          "scene": 2,
+          "line_start": 186,
+          "line_end": 190,
+          "speaker_id": "hamlet",
+          "text": "Ay, sir; to be honest, as this world goes, is to be one man picked out of ten thousand.",
+          "meter_type": "prose",
+          "speech_type": "dialogue",
+          "addressee_id": "polonius"
+        },
+        {
+          "turn_id": "HAM_2_2_t9",
+          "act": 2,
+          "scene": 2,
+          "line_start": 191,
+          "line_end": 192,
+          "speaker_id": "polonius",
+          "text": "That's very true, my lord.",
+          "meter_type": "prose",
+          "speech_type": "dialogue",
+          "actantial_intent": "comic_deflection",
+          "addressee_id": "hamlet"
+        },
+        {
+          "turn_id": "HAM_2_2_t10",
+          "act": 2,
+          "scene": 2,
+          "line_start": 205,
+          "line_end": 210,
+          "speaker_id": "polonius",
+          "text": "Though this be madness, yet there is method in't. Will you walk out of the air, my lord?",
+          "meter_type": "prose",
+          "speech_type": "dialogue",
+          "actantial_intent": "admonition",
+          "addressee_id": "hamlet"
+        }
+      ]
+    },
+    {
+      "act": 3,
+      "scene": 1,
+      "setting": "A hall in the castle before the Nunnery scene",
+      "turns": [
+        {
+          "turn_id": "HAM_3_1_t1",
+          "act": 3,
+          "scene": 1,
+          "line_start": 510,
+          "line_end": 518,
+          "speaker_id": "polonius",
+          "text": "Ophelia, walk you here. Gracious, so please you, We will bestow ourselves. Read on this book; That show of such an exercise may colour Your loneliness. We are oft to blame in this,\u2014 'Tis too much proved\u2014that with devotion's visage And pious action we do sugar o'er The devil himself.",
+          "meter_type": "blank_verse",
+          "speech_type": "dialogue",
+          "actantial_intent": "philosophical_inquiry",
+          "addressee_id": "ophelia"
+        },
+        {
+          "turn_id": "HAM_3_1_t2",
+          "act": 3,
+          "scene": 1,
+          "line_start": 519,
+          "line_end": 526,
+          "speaker_id": "claudius",
+          "text": "O, 'tis too true! How smart a lash that speech doth give my conscience! The harlot's cheek, beautied with plastering art, Is not more ugly to the thing that helps it Than is my deed to my most painted word: O heavy burthen!",
+          "meter_type": "blank_verse",
+          "speech_type": "aside",
+          "addressee_id": null
+        },
+        {
+          "turn_id": "HAM_3_1_t3",
+          "act": 3,
+          "scene": 1,
+          "line_start": 527,
+          "line_end": 530,
+          "speaker_id": "polonius",
+          "text": "I hear him coming: let's withdraw, my lord.",
+          "meter_type": "blank_verse",
+          "speech_type": "dialogue",
+          "actantial_intent": "self_preservation",
+          "addressee_id": "claudius"
+        }
+      ]
+    }
+  ]
+}

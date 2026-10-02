@@ -1,0 +1,241 @@
+{
+  "play_id": "king_lear",
+  "title": "The Tragedy of King Lear",
+  "genre": "tragedy",
+  "characters": {
+    "lear": {
+      "name": "King Lear",
+      "rank": "Abdicated Monarch"
+    },
+    "kent": {
+      "name": "Earl of Kent",
+      "rank": "Disguised Nobleman (Caius)"
+    },
+    "fool": {
+      "name": "Fool",
+      "rank": "Court Jester / Retainer"
+    },
+    "goneril": {
+      "name": "Goneril",
+      "rank": "Eldest Daughter / Duchess of Albany"
+    },
+    "oswald": {
+      "name": "Oswald",
+      "rank": "Steward to Goneril"
+    }
+  },
+  "stage_events": [
+    {
+      "line_number": 1,
+      "event_type": "ENTER",
+      "characters": [
+        "kent"
+      ],
+      "description": "Enter Kent, disguised."
+    },
+    {
+      "line_number": 8,
+      "event_type": "ENTER",
+      "characters": [
+        "lear"
+      ],
+      "description": "Enter Lear and Attendants."
+    },
+    {
+      "line_number": 95,
+      "event_type": "ENTER",
+      "characters": [
+        "fool"
+      ],
+      "description": "Enter Fool."
+    },
+    {
+      "line_number": 195,
+      "event_type": "ENTER",
+      "characters": [
+        "goneril"
+      ],
+      "description": "Enter Goneril."
+    },
+    {
+      "line_number": 300,
+      "event_type": "EXIT",
+      "characters": [
+        "lear",
+        "kent"
+      ],
+      "description": "Exit Lear with Kent and Train."
+    },
+    {
+      "line_number": 1000,
+      "event_type": "ENTER",
+      "characters": [
+        "lear",
+        "fool"
+      ],
+      "description": "Enter Lear and Fool, in the Storm on the Heath."
+    },
+    {
+      "line_number": 1035,
+      "event_type": "ENTER",
+      "characters": [
+        "kent"
+      ],
+      "description": "Enter Kent looking for them in the tempest."
+    }
+  ],
+  "scenes": [
+    {
+      "act": 1,
+      "scene": 4,
+      "setting": "A hall in the Duke of Albany's Palace",
+      "turns": [
+        {
+          "turn_id": "KL_1_4_t1",
+          "act": 1,
+          "scene": 4,
+          "line_start": 96,
+          "line_end": 99,
+          "speaker_id": "fool",
+          "text": "Let me hire him too: here's my coxcomb.",
+          "meter_type": "prose",
+          "speech_type": "dialogue",
+          "actantial_intent": "riddle_paradox",
+          "addressee_id": "kent"
+        },
+        {
+          "turn_id": "KL_1_4_t2",
+          "act": 1,
+          "scene": 4,
+          "line_start": 100,
+          "line_end": 101,
+          "speaker_id": "lear",
+          "text": "How now, my pretty knave! how dost thou?",
+          "meter_type": "prose",
+          "speech_type": "dialogue",
+          "addressee_id": "fool"
+        },
+        {
+          "turn_id": "KL_1_4_t3",
+          "act": 1,
+          "scene": 4,
+          "line_start": 102,
+          "line_end": 105,
+          "speaker_id": "fool",
+          "text": "Sirrah, you were best take my coxcomb.",
+          "meter_type": "prose",
+          "speech_type": "dialogue",
+          "actantial_intent": "admonition",
+          "addressee_id": "kent"
+        },
+        {
+          "turn_id": "KL_1_4_t4",
+          "act": 1,
+          "scene": 4,
+          "line_start": 106,
+          "line_end": 107,
+          "speaker_id": "kent",
+          "text": "Why, fool?",
+          "meter_type": "prose",
+          "speech_type": "dialogue",
+          "addressee_id": "fool"
+        },
+        {
+          "turn_id": "KL_1_4_t5",
+          "act": 1,
+          "scene": 4,
+          "line_start": 108,
+          "line_end": 115,
+          "speaker_id": "fool",
+          "text": "Why, for taking one's part that's out of favour: nay, an thou canst not smile as the wind sits, thou'lt catch cold shortly: there, take my coxcomb: why, this fellow has banished two on's daughters, and did the third a blessing against his will; if thou follow him, thou must needs wear my coxcomb.",
+          "meter_type": "prose",
+          "speech_type": "dialogue",
+          "actantial_intent": "admonition",
+          "addressee_id": "kent"
+        },
+        {
+          "turn_id": "KL_1_4_t6",
+          "act": 1,
+          "scene": 4,
+          "line_start": 116,
+          "line_end": 118,
+          "speaker_id": "lear",
+          "text": "Take heed, sirrah; the whip.",
+          "meter_type": "prose",
+          "speech_type": "dialogue",
+          "addressee_id": "fool"
+        },
+        {
+          "turn_id": "KL_1_4_t7",
+          "act": 1,
+          "scene": 4,
+          "line_start": 119,
+          "line_end": 124,
+          "speaker_id": "fool",
+          "text": "Truth's a dog must to kennel; he must be whipped out, when Lady the brach may stand by the fire and stink.",
+          "meter_type": "prose",
+          "speech_type": "dialogue",
+          "actantial_intent": "philosophical_inquiry",
+          "addressee_id": "lear"
+        }
+      ]
+    },
+    {
+      "act": 3,
+      "scene": 2,
+      "setting": "Another part of the heath. Storm still.",
+      "turns": [
+        {
+          "turn_id": "KL_3_2_t1",
+          "act": 3,
+          "scene": 2,
+          "line_start": 1001,
+          "line_end": 1009,
+          "speaker_id": "lear",
+          "text": "Blow, winds, and crack your cheeks! rage! blow! You cataracts and hurricanoes, spout Till you have drench'd our steeples, drown'd the cocks! You sulphurous and thought-executing fires, Vaunt-couriers to oak-cleaving thunderbolts, Singe my white head!",
+          "meter_type": "blank_verse",
+          "speech_type": "soliloquy",
+          "addressee_id": null
+        },
+        {
+          "turn_id": "KL_3_2_t2",
+          "act": 3,
+          "scene": 2,
+          "line_start": 1010,
+          "line_end": 1018,
+          "speaker_id": "fool",
+          "text": "O nuncle, court holy-water in a dry house is better than this rain-water out o' door. Good nuncle, in, and ask thy daughters' blessing: here's a night pities neither wise man nor fool.",
+          "meter_type": "prose",
+          "speech_type": "dialogue",
+          "actantial_intent": "self_preservation",
+          "addressee_id": "lear"
+        },
+        {
+          "turn_id": "KL_3_2_t3",
+          "act": 3,
+          "scene": 2,
+          "line_start": 1019,
+          "line_end": 1025,
+          "speaker_id": "lear",
+          "text": "Rumble thy bellyful! Spit, fire! spout, rain! Nor rain, wind, thunder, fire, are my daughters: I tax not you, you elements, with unkindness; I never gave you kingdom, call'd you children.",
+          "meter_type": "blank_verse",
+          "speech_type": "dialogue",
+          "addressee_id": "fool"
+        },
+        {
+          "turn_id": "KL_3_2_t4",
+          "act": 3,
+          "scene": 2,
+          "line_start": 1026,
+          "line_end": 1034,
+          "speaker_id": "fool",
+          "text": "He that has a house to put's head in has a good head-piece. The cod-piece that will house Before the head has any, The head and he shall louse; So beggars marry many.",
+          "meter_type": "song",
+          "speech_type": "dialogue",
+          "actantial_intent": "riddle_paradox",
+          "addressee_id": "lear"
+        }
+      ]
+    }
+  ]
+}

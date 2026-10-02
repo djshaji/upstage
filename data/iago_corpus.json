@@ -1,0 +1,39 @@
+{
+  "donor_id": "iago",
+  "canonical_name": "Iago",
+  "source_plays": [
+    "Othello"
+  ],
+  "rank": "Ensign / Ancient (Venetian Military)",
+  "dominant_meter": "mixed",
+  "turns": [
+    {
+      "id": "OTH_1_1_i1",
+      "play": "Othello",
+      "act": 1,
+      "scene": 1,
+      "text": "O, sir, content you; I follow him to serve my turn upon him: We cannot all be masters, nor all masters Cannot be truly follow'd. You shall mark Many a duteous and knee-crooking knave, That, doting on his own obsequious bondage, Wears out his time, much like his master's ass, For nought but provender, and when he's old, cashier'd: Whip me such honest knaves. Others there are Who, trimm'd in forms and visages of duty, Keep yet their hearts attending on themselves, And, throwing but shows of service on their lords, Do well thrive by them and when they have lined their coats Do themselves homage: these fellows have some soul; And such a one do I profess myself. For, sir, It is as sure as you are Roderigo, Were I the Moor, I would not be Iago: In following him, I follow but myself; Heaven is my judge, not I for love and duty, But seeming so, for my peculiar end: For when my outward action doth demonstrate The native act and figure of my heart In compliment extern, 'tis not long after But I will wear my heart upon my sleeve For daws to peck at: I am not what I am."
+    },
+    {
+      "id": "OTH_1_3_i2",
+      "play": "Othello",
+      "act": 1,
+      "scene": 3,
+      "text": "Virtue! a fig! 'tis in ourselves that we are thus or thus. Our bodies are our gardens, to the which our wills are gardeners: so that if we will plant nettles, or sow lettuce, set hyssop and weed up thyme, supply it with one gender of herbs, or distract it with many, either to have it sterile with idleness, or manured with industry, why, the power and corrigible authority of this lies in our wills. If the balance of our lives had not one scale of reason to poise another of sensuality, the blood and baseness of our natures would conduct us to most preposterous conclusions: but we have reason to cool our raging motions, our carnal stings, our unbitted lusts, whereof I take this that you call love to be a sect or scion."
+    },
+    {
+      "id": "OTH_3_3_i3",
+      "play": "Othello",
+      "act": 3,
+      "scene": 3,
+      "text": "Good name in man and woman, dear my lord, Is the immediate jewel of their souls: Who steals my purse steals trash; 'tis something, nothing; 'Twas mine, 'tis his, and has been slave to thousands: But he that filches from me my good name Robs me of that which not enriches him And makes me poor indeed."
+    },
+    {
+      "id": "OTH_3_3_i4",
+      "play": "Othello",
+      "act": 3,
+      "scene": 3,
+      "text": "O, beware, my lord, of jealousy; It is the green-eyed monster which doth mock The meat it feeds on: that cuckold lives in bliss Who, certain of his fate, loves not his wronger; But, O, what damned minutes tells he o'er Who dotes, yet doubts, suspects, yet strongly loves!"
+    }
+  ]
+}
