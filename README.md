@@ -20,7 +20,6 @@ By integrating co-presence social network graphs from the **Drama Corpora Projec
   - [Running Tests & Benchmarks](#running-tests--benchmarks)  
   - [Launching the Interactive Local UI](#launching-the-interactive-local-ui)  
 - [REST API Reference](#rest-api-reference)  
-- [Citation](#citation)  
 - [License](#license)
 
 ---
@@ -276,26 +275,6 @@ The local server exposes the following endpoints:
 | `/api/plays` | `GET` | None | Lists all 37 canonical plays with word counts, speaker counts, and network metrics |
 | `/api/recommender` | `GET` | `donor=NAME` | Recommends top target roles minimizing \$\\Delta\_{\\text{centrality}}\$ |
 | `/api/simulate_turn` | `POST` | JSON payload | Executes prompt compilation, LLM simulation, and CLS auditing |
-
----
-
-## Citation
-
-If you use Upstage in your research, please cite our conference manuscript:
-
-@inproceedings{khan2026upstage,
-
-  title={Upstage: A Computational Framework for Cross-Play Dramatic Character Transplantation via Large Language Models and Computational Literary Studies},
-
-  author={Khan, Shaji},
-
-  year={2026},
-
-  booktitle={Proceedings of the Digital Humanities Conference (DH 2026\) / Computational Literary Studies},
-
-  note={Preprint available in project repository}
-
-}
 
 ---
 
